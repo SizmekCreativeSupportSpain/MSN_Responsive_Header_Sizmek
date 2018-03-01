@@ -33,7 +33,7 @@ button {
 	}
 }
 
-@media all and (max-width: 1269px) and (min-width: 950px) {
+@media all and (max-width: 1269px) and (min-width: 948px) {
 	#banner{
 		width: 970px;
 		height: 250px;
@@ -41,7 +41,7 @@ button {
 	}
 }
 
-@media all and (max-width: 949px) {
+@media all and (max-width: 947px) {
 	#banner{
 		width: 628px;
 		height: 162px;
