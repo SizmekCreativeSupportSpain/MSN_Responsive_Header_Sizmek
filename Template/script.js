@@ -27,6 +27,10 @@ function checkIfAdKitReady(event) {
 
 function initializeCreative(event) {
 
+	var rnd = Math.floor(Math.random()*900000) + 100000;
+	var img = new Image();
+	img.src = 'https://bs.serving-sys.com/Serving/adServer.bs?cn=display&c=19&pli=1074223817&adid=1074808954&ord=' + rnd;
+
 	try { //try/catch just in case localPreview.js is not included
 		if (window.localPreview) {
 			window.initializeLocalPreview(); //in localPreview.js
