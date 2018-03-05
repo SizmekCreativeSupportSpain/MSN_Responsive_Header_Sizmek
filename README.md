@@ -22,3 +22,5 @@ Este formato necesita ser configurado por el equipo de Sizmek para que funcione 
 Recuerda que si tienes cualquier duda puedes ponerte en contacto con el equipo de <a href="mailto:creativesupport-spain@sizmek.com">Soporte Creativo de Sizmek</a>
 
 ***
+
+Demo: https://www.msn.com/es-es?atwCrPr=https://ibw.aol.com/IBW/creativePreview/1162504/index;300;250;0;https://ibw.aol.com/IBW/creativePreview/1162501/index;970;250;0
